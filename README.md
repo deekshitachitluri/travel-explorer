@@ -250,8 +250,5 @@ When clicked on Android, the system automatically prompts to open in the native 
 
 ---
 
-## 👥 Authors & Acknowledgments
-
-- **Assignment**: GDGC VNRVJIET App Development Assignment
-- **Developer**: Senior Flutter Developer Pair
+## Acknowledgments
 - **Platform**: Flutter & Dart
