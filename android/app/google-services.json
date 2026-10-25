@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545371280685",
+    "project_id": "travel-explorer-gdgc",
+    "storage_bucket": "travel-explorer-gdgc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545371280685:android:88d1004c430eb255bbafa4",
+        "android_client_info": {
+          "package_name": "com.gdgc.travelexplorer.travel_explorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545371280685-kfn85frfl531tlu35tepq6fe3iufc88o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbMk88AzU54dg1e9_jjGVdZJ4_LYn6ZoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545371280685-kfn85frfl531tlu35tepq6fe3iufc88o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
